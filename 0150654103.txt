@@ -1,0 +1,9 @@
+First_Name: amir
+Last_name: khodayari
+Age: 20
+National_code: 0150654103
+Start_Study_year: 1390
+Mathematics_Score: 20
+Physics_Score: 20
+Computer_Science_Score: 20
+History_Score: 20

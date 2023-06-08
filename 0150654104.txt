@@ -1,0 +1,9 @@
+First_Name: sara
+Last_name: hashemi
+Age: 20
+National_code: 0150654104
+Start_Study_year: 1380
+Mathematics_Score: 20
+Physics_Score: 20
+Computer_Science_Score: 20
+History_Score: 20
