@@ -1,5 +1,0 @@
-First_Name = input('Please enter your first name: ')
-Last_name = input('Please enter your last name: ')
-Age = float(input('Please enter your age as digits: '))
-National_code = input('Please enter your national code as digits: ')
-Start_Study_year = int(input('Please enter your study year as digits: '))
